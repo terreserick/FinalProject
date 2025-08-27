@@ -34,7 +34,7 @@ public class Menu extends javax.swing.JFrame {
         jButton2 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Menu");
+        setTitle("Menu Erick is my Hero");
 
         jPanel1.setBackground(new java.awt.Color(153, 153, 255));
 
