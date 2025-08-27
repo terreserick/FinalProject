@@ -39,7 +39,7 @@ public class Delivery extends javax.swing.JFrame {
         jComboBox1 = new javax.swing.JComboBox<>();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Delivery");
+        setTitle("Delivery Erick is my Hero");
 
         jPanel1.setBackground(new java.awt.Color(153, 153, 255));
 
