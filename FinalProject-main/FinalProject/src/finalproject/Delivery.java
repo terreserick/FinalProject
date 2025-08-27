@@ -62,7 +62,7 @@ public class Delivery extends javax.swing.JFrame {
             }
         });
 
-        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "1 - Camiseta", "2 - Calça", "3 - Roupa intima", "4 - Calçado", "5 - Outros" }));
+        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "1 - Camiseta", "2 - Calça", "3 - Roupa intima", "4 - Calçado", "5 - Outros", "6 - Nada(Foi o que sobrou pro betinha)" }));
         jComboBox1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jComboBox1ActionPerformed(evt);
