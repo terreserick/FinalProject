@@ -32,7 +32,7 @@ public class ListaItems extends javax.swing.JFrame {
         Alterar = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Itens");
+        setTitle("Itens Erick is my Hero");
 
         jPanel1.setBackground(new java.awt.Color(255, 255, 153));
 
